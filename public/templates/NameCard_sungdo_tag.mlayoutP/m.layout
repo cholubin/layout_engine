@@ -1,0 +1,1665 @@
+{
+    BackupFile = YES;
+    Color =     (
+                {
+            C = "CMYK = 0.40, 0.25, 0.81, 0.00, 1.00";
+            N = "C:39 M:25 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.86, 0.48, 0.25, 0.00, 1.00";
+            N = "C:85 M:48 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.25, 0.86, 1.00, 0.00, 1.00";
+            N = "C:25 M:85 Y:100 K:0";
+        },
+                {
+            C = "CMYK = 0.59, 0.75, 0.25, 0.00, 1.00";
+            N = "C:58 M:75 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.10, 0.32, 0.81, 0.00, 1.00";
+            N = "C:9 M:32 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.92, 0.48, 0.93, 0.00, 1.00";
+            N = "C:91 M:48 Y:93 K:0";
+        },
+                {
+            C = "RGB = 0.52, 0.29, 0.04, 1.00";
+            N = "R:52 G:28 B:3";
+        },
+                {
+            C = "CMYK = 0.48, 0.48, 0.86, 0.00, 1.00";
+            N = "C:48 M:48 Y:85 K:0";
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+            N = Black;
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+            N = White;
+        },
+                {
+            C = "CMYK = 0.40, 0.25, 0.81, 0.00, 1.00";
+            N = "C:39 M:25 Y:81 K:0-1";
+        },
+                {
+            C = "CMYK = 0.86, 0.48, 0.25, 0.00, 1.00";
+            N = "C:85 M:48 Y:25 K:0-1";
+        },
+                {
+            C = "CMYK = 0.25, 0.86, 1.00, 0.00, 1.00";
+            N = "C:25 M:85 Y:100 K:0-1";
+        },
+                {
+            C = "CMYK = 0.59, 0.75, 0.25, 0.00, 1.00";
+            N = "C:58 M:75 Y:25 K:0-1";
+        },
+                {
+            C = "CMYK = 0.10, 0.32, 0.81, 0.00, 1.00";
+            N = "C:9 M:32 Y:81 K:0-1";
+        },
+                {
+            C = "CMYK = 0.92, 0.48, 0.93, 0.00, 1.00";
+            N = "C:91 M:48 Y:93 K:0-1";
+        },
+                {
+            C = "RGB = 0.52, 0.29, 0.04, 1.00";
+            N = "R:52 G:28 B:3-1";
+        },
+                {
+            C = "CMYK = 0.48, 0.48, 0.86, 0.00, 1.00";
+            N = "C:48 M:48 Y:85 K:0-1";
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+            N = "Black-1";
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+            N = "White-1";
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+            N = "K:100";
+        },
+                {
+            C = "RGB = 0.95, 0.38, 0.30, 1.00";
+            N = "R:95G:38B:30";
+        },
+                {
+            C = "CMYK = 0.00, 0.73, 0.24, 0.00, 1.00";
+            N = "C:0M:73Y:24K:0";
+        },
+                {
+            C = "CMYK = 0.00, 0.28, 0.81, 0.00, 1.00";
+            N = "C:0M:28Y:81K:0";
+        }
+    );
+    DocVer = 20001;
+    GIMClass =     (
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {483, 271}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = A;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {149.291, 107.652}}";
+            CPBox =             {
+                Attribute =                 (
+                );
+                Bounds = "{{811.211, 550.667}, {83.2334, 6}}";
+                Class = ImageCaption;
+                MG = "{{0, 0}, {0, 0}}";
+                Position = 0;
+                UCT = <fffe0000>;
+            };
+            CaptionWidth = "83.23";
+            Class = SMImage;
+            GIM = Y;
+            GIMScale = Y;
+            Name = B;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {145, 128}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = C;
+            SI = 2;
+        }
+    );
+    MasterPage =     (
+                {
+            Bounds = "{{0, 0}, {255.118, 141.732}}";
+            Class = SMPageObject;
+            Columns = 1;
+            Gutter = "14.17";
+            Name = "Model:B";
+            PageMargin = "{{0, 0}, {0, 0}}";
+            PageType = 1;
+        }
+    );
+    PageInfo =     {
+        AutoPageAppend = 1;
+        Baseline = Doc;
+        Bleed = "532.000000";
+        BleedV = "36.000000";
+        CA = 0;
+        CurrentLanguage = 1;
+        Design = mjlee;
+        FileHistoryFolder = "/Users/Shared/Softmagic/M/Backup";
+        Grid = N;
+        Guide = N;
+        Host = "mjleeui-imac.local";
+        Increment = "15.590000";
+        Leading = "0.000000";
+        NavigatorInfo =         {
+            OpenedList =             (
+            );
+            SelectedRow = 0;
+            VisibleRect = "{{0, 0}, {209, 36}}";
+        };
+        Pages = 1;
+        PaperSize = "\Uae30\Ud0c0(90.00mm 50.00mm)";
+        Proportional = ",smShinMyungjoP,smShinShinMyungjoP,smJohabP,smGungseoP,smMyungjoP,smGothicP";
+        Ruler = Y;
+        Snap = Y;
+        Start = Doc;
+        pageNumber = 1;
+    };
+    Pages =     (
+                {
+            Bounds = "{{0, 0}, {1319.12, 213.732}}";
+            Class = SMPageContainer;
+            GraphicContainer =             {
+                BT = 2;
+                Cell = "{100, 12}";
+                Class = SMGTextBox;
+                Graphics =                 (
+                                        {
+                        Bounds = "{{532, 36}, {255.118, 141.732}}";
+                        Class = SMPageObject;
+                        Columns = 1;
+                        Gutter = "14.17";
+                        Name = "Model:B";
+                        PageMargin = "{{0, 0}, {0, 0}}";
+                        PageNumber = 1;
+                        PageType = 1;
+                    },
+                                        {
+                        Area = 1;
+                        Bounds = "{{545.745, 61.8182}, {111.818, 34.5455}}";
+                        Class = SMImage;
+                        Constrain = Y;
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+                        };
+                        Image =                         {
+                            Frame = "{{2.90906, 3.18182}, {106, 27}}";
+                            Path = "/Users/mjlee/Desktop/\U1109\U1165\U11bc\U1103\U1169\U110c\U1161\U11a8\U110b\U1165\U11b8/\U1112\U116c\U1109\U1161\U1105\U1169\U1100\U1169/sungdo.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = logo;
+                        Number = 3;
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6e00 61006d00 6500>;
+                                    };
+                                    Len = 4;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {37.15, 13.7592}}"
+                            );
+                            Unicode = <fffe15ac 15d6e4ac 0000>;
+                        };
+                        Bounds = "{{696.555, 64.0786}, {37.15, 13.7592}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+                        };
+                        GraphicContainer =                         {
+                            Cell = "{37.15, 13.7592}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 1;
+                            addedmargin = "-12.488598";
+                        };
+                        Name = name;
+                        Number = 5;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6e00 61006d00 65005f00 65006e00 6700>;
+                                    };
+                                    Len = 9;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {50.214, 13.7592}}"
+                            );
+                            Unicode = <fffe4800 2e004700 2e004b00 61006e00 67000000>;
+                        };
+                        Bounds = "{{736.285, 64.6959}, {50.214, 13.7592}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        GraphicContainer =                         {
+                            Cell = "{50.214, 13.7592}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 1;
+                            addedmargin = "-13.105900";
+                        };
+                        Name = "name_eng";
+                        Number = 7;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 3;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -1;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 8;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -1;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 7;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 6;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 3;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 6f007300 69007400 6f006e00>;
+                                    };
+                                    Len = 3;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {89.3683, 18.3877}}"
+                            );
+                            Unicode = <fffe80bd a5c72000 2f002000 42007500 73006900 6e006500 73007300 20004d00 61006e00 61006700 65007200 0a00e0ac 1dac80bd 38bb2000 2f002000 01c6c5c5 320000d3 a5c70000>;
+                        };
+                        Bounds = "{{696.658, 80.1939}, {89.3683, 18.3877}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        GraphicContainer =                         {
+                            Cell = "{89.3683, 15.59}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 1;
+                            addedmargin = "-13.013901";
+                        };
+                        Name = position;
+                        Number = 9;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6500 6d006100 69006c00>;
+                                    };
+                                    Len = 22;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {80.512, 7.27272}}"
+                            );
+                            Unicode = <fffe6800 67006b00 61006e00 67004000 73007500 6e006700 64006f00 47004c00 2e006300 6f002e00 6b007200 0000>;
+                        };
+                        Bounds = "{{702.151, 139.214}, {80.512, 7.27272}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        GraphicContainer =                         {
+                            Cell = "{80.512, 7.27272}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 1;
+                            addedmargin = "-9.674004";
+                        };
+                        Name = email;
+                        Number = 11;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 68006f00 6e006500>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = YDIYGO130;
+                                        FontScale = "90.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 68006f00 6e006500>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 68006f00 6e006500>;
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = YDIYGO130;
+                                        FontScale = "90.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 68006f00 6e006500>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe7000 68006f00 6e006500>;
+                                    };
+                                    Len = 5;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {72.6234, 8.41568}}"
+                            );
+                            Unicode = <fffe3000 32002d00 33003400 30003600 2d003700 30003100 35000000>;
+                        };
+                        Bounds = "{{709.73, 147.243}, {72.6234, 8.41568}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        GraphicContainer =                         {
+                            Cell = "{72.6234, 8.41568}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 1;
+                            addedmargin = "-2.112995";
+                        };
+                        Name = phone;
+                        Number = 13;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontScale = "95.00";
+                                        NSBaselineOffset = -1;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe2d00 2d00>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = Helvetica;
+                                        FontSize = "12.00";
+                                        TextColorShade = "1.00";
+                                        USN = <fffe2d00 2d00>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontScale = "95.00";
+                                        NSBaselineOffset = -1;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe2d00 2d00>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = Helvetica;
+                                        FontSize = "12.00";
+                                        TextColorShade = "1.00";
+                                        USN = <fffe2d00 2d00>;
+                                    };
+                                    Len = 2;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {7.29736, 17.081}}"
+                            );
+                            Unicode = <fffe5400 2e000a00 4d002e00 0000>;
+                        };
+                        Bounds = "{{702.151, 147.243}, {7.29736, 17.081}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        GraphicContainer =                         {
+                            Cell = "{7.29736, 15.59}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 1;
+                            addedmargin = "-2.112995";
+                        };
+                        Number = 15;
+                    },
+                                        {
+                        Bounds = "{{697.353, 139.58}, {0, 25.202}}";
+                        Class = SMLine;
+                        End = "{697.353, 164.782}";
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.00, 0.00, 0.85, 1.00";
+                            Width = "0.30";
+                        };
+                        Number = 17;
+                        Start = "{697.353, 139.58}";
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 5;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 3;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 3;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 8;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 3;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 3;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 12;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 6;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 2;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = ArialMT;
+                                        FontScale = "95.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6100 64007200 65007300 7300>;
+                                    };
+                                    Len = 5;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {146.584, 36.0956}}"
+                            );
+                            Unicode = <fffe6331 fcc86331 31c1c4b3 47004c00 20002000 20007700 77007700 2e005300 75006e00 67006400 6f004700 4c002e00 63006f00 2e006b00 72000a00 31003000 30002d00 38003600 31002000 1cc1b8c6 dcc22000 11c96cad 2000a9cd 34bb5cb8 20003200 00ac2000 34003900 2d003100 37002000 70c891c5 4cbe29b5 20003100 300035ce 0a005400 2e003000 32002d00 33003400 30003600 2d003700 30003000 30002000 20004600 2e003000 32002d00 33003400 30003600 2d003700 30003300 30000000>;
+                        };
+                        Bounds = "{{549.391, 138.208}, {146.584, 36.0956}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        GraphicContainer =                         {
+                            Cell = "{146.584, 15.59}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 2;
+                            addedmargin = "-8.667992";
+                        };
+                        Name = adress;
+                        Number = 21;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6d00 6f006200 69006c00 6500>;
+                                    };
+                                    Len = 3;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = YDIYGO130;
+                                        FontScale = "90.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6d00 6f006200 69006c00 6500>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6d00 6f006200 69006c00 6500>;
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        FontName = YDIYGO130;
+                                        FontScale = "90.00";
+                                        FontSize = "6.50";
+                                        MCSR = Y;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6d00 6f006200 69006c00 6500>;
+                                    };
+                                    Len = 1;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        MCSR = Y;
+                                        NSBaselineOffset = -0.5;
+                                        TextColorShade = "1.00";
+                                        USN = <fffe6d00 6f006200 69006c00 6500>;
+                                    };
+                                    Len = 5;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {72.6234, 8.41568}}"
+                            );
+                            Unicode = <fffe3000 31003000 2d003200 33003200 33002d00 36003200 30003000 0000>;
+                        };
+                        Bounds = "{{709.73, 155.757}, {72.6234, 8.41568}}";
+                        Class = SMRectangle;
+                        Constrain = Y;
+                        GraphicContainer =                         {
+                            Cell = "{72.6234, 8.41568}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 0}";
+                            Row = 1;
+                            addedmargin = "-10.627003";
+                        };
+                        Name = mobile;
+                        Number = 25;
+                    }
+                );
+                Inter = "{1, 1}";
+                Margin = "{{1, 1}, {1, 1}}";
+                Row = 0;
+            };
+            Number = 0;
+        }
+    );
+    PaperSize = "{255.118, 141.732}";
+    ParagraphStyle =     (
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = "Times-Roman";
+                FontSize = "10.00";
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            MinSpacing = "85.00";
+            Spacing = "110.00";
+            UG = <fffe4400 65006600 61007500 6c007400>;
+            USN = <fffe2d00 2d00>;
+            UserSpacing = "40.00";
+        },
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = YDIYGO130;
+                FontScale = "90.00";
+                FontSize = "11.70";
+                NSColor =                 {
+                    Alpha = "1.00";
+                    Black = "0.85";
+                    ColorSpaceName = NSDeviceCMYKColorSpace;
+                    Cyan = "0.00";
+                    Magenta = "0.00";
+                    Yellow = "0.00";
+                };
+                Plain = YES;
+                TextColorShade = "1.00";
+                Track = "40.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            MinSpacing = "85.00";
+            Rank = 1;
+            Spacing = "110.00";
+            USN = <fffe6e00 61006d00 6500>;
+            UserSpacing = "40.00";
+        },
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = ArialMT;
+                FontScale = "85.00";
+                FontSize = "11.00";
+                NSColor =                 {
+                    Alpha = "1.00";
+                    Black = "0.85";
+                    ColorSpaceName = NSDeviceCMYKColorSpace;
+                    Cyan = "0.00";
+                    Magenta = "0.00";
+                    Yellow = "0.00";
+                };
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            MinSpacing = "85.00";
+            Rank = 2;
+            Spacing = "110.00";
+            USN = <fffe6e00 61006d00 65005f00 65006e00 6700>;
+            UserSpacing = "40.00";
+        },
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = YDIYGO130;
+                FontScale = "90.00";
+                FontSize = "6.50";
+                NSColor =                 {
+                    Alpha = "1.00";
+                    Black = "0.85";
+                    ColorSpaceName = NSDeviceCMYKColorSpace;
+                    Cyan = "0.00";
+                    Magenta = "0.00";
+                    Yellow = "0.00";
+                };
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            LineSpacing = "8.00";
+            LineSpacingType = 1;
+            MinSpacing = "85.00";
+            RangeStyles =             (
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-0.5";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 57;
+                    Name = "1Byte_\Uc22b\Uc790";
+                    Start = 48;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-1";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 90;
+                    Name = "1Byte_\Uc601\Ubb38\Ub300\Ubb38\Uc790";
+                    Start = 65;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-1";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 122;
+                    Name = "1Byte_\Uc601\Ubb38\Uc18c\Ubb38\Uc790";
+                    Start = 97;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = YDIYGO130;
+                        FontScale = "90.00";
+                        FontSize = "6.50";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 255;
+                    Name = "1Byte_\Uc57d\Ubb3c";
+                    Start = 33;
+                    Type = 0;
+                }
+            );
+            Rank = 3;
+            Spacing = "110.00";
+            USN = <fffe7000 6f007300 69007400 6f006e00>;
+            UserSpacing = "40.00";
+        },
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = YDIYGO130;
+                FontScale = "90.00";
+                FontSize = "6.50";
+                NSColor =                 {
+                    Alpha = "1.00";
+                    Black = "0.85";
+                    ColorSpaceName = NSDeviceCMYKColorSpace;
+                    Cyan = "0.00";
+                    Magenta = "0.00";
+                    Yellow = "0.00";
+                };
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            LineSpacing = "8.50";
+            LineSpacingType = 1;
+            MinSpacing = "85.00";
+            RangeStyles =             (
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-0.5";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 57;
+                    Name = "1Byte_\Uc22b\Uc790";
+                    Start = 48;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-0.5";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 90;
+                    Name = "1Byte_\Uc601\Ubb38\Ub300\Ubb38\Uc790";
+                    Start = 65;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-0.5";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 122;
+                    Name = "1Byte_\Uc601\Ubb38\Uc18c\Ubb38\Uc790";
+                    Start = 97;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "90.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-0.5";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 255;
+                    Name = "1Byte_\Uc57d\Ubb3c";
+                    Start = 33;
+                    Type = 0;
+                }
+            );
+            Rank = 4;
+            Spacing = "110.00";
+            USN = <fffe6100 64007200 65007300 7300>;
+            UserSpacing = "40.00";
+        },
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = ArialMT;
+                FontSize = "6.00";
+                NSColor =                 {
+                    Alpha = "1.00";
+                    Black = "0.85";
+                    ColorSpaceName = NSDeviceCMYKColorSpace;
+                    Cyan = "0.00";
+                    Magenta = "0.00";
+                    Yellow = "0.00";
+                };
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            LineSpacing = "7.50";
+            LineSpacingType = 1;
+            MinSpacing = "85.00";
+            Rank = 5;
+            Spacing = "110.00";
+            USN = <fffe6500 6d006100 69006c00>;
+            UserSpacing = "40.00";
+        },
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = ArialMT;
+                FontScale = "95.00";
+                FontSize = "6.50";
+                NSBaselineOffset = "-0.5";
+                NSColor =                 {
+                    Alpha = "1.00";
+                    Black = "0.85";
+                    ColorSpaceName = NSDeviceCMYKColorSpace;
+                    Cyan = "0.00";
+                    Magenta = "0.00";
+                    Yellow = "0.00";
+                };
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            LineSpacing = "8.00";
+            LineSpacingType = 1;
+            MinSpacing = "85.00";
+            RangeStyles =             (
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-0.5";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 57;
+                    Name = "1Byte_\Uc22b\Uc790";
+                    Start = 48;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-1";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 90;
+                    Name = "1Byte_\Uc601\Ubb38\Ub300\Ubb38\Uc790";
+                    Start = 65;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-1";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 122;
+                    Name = "1Byte_\Uc601\Ubb38\Uc18c\Ubb38\Uc790";
+                    Start = 97;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = YDIYGO130;
+                        FontScale = "90.00";
+                        FontSize = "6.50";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 255;
+                    Name = "1Byte_\Uc57d\Ubb3c";
+                    Start = 33;
+                    Type = 0;
+                }
+            );
+            Rank = 6;
+            Spacing = "110.00";
+            USN = <fffe7000 68006f00 6e006500>;
+            UserSpacing = "40.00";
+        },
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = ArialMT;
+                FontScale = "95.00";
+                FontSize = "6.50";
+                NSBaselineOffset = "-0.5";
+                NSColor =                 {
+                    Alpha = "1.00";
+                    Black = "0.85";
+                    ColorSpaceName = NSDeviceCMYKColorSpace;
+                    Cyan = "0.00";
+                    Magenta = "0.00";
+                    Yellow = "0.00";
+                };
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            HyphenationPrefix = 3;
+            HyphenationShortestWord = 6;
+            LineSpacing = "8.00";
+            LineSpacingType = 1;
+            MinSpacing = "85.00";
+            RangeStyles =             (
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-0.5";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 57;
+                    Name = "1Byte_\Uc22b\Uc790";
+                    Start = 48;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-1";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 90;
+                    Name = "1Byte_\Uc601\Ubb38\Ub300\Ubb38\Uc790";
+                    Start = 65;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = ArialMT;
+                        FontScale = "95.00";
+                        FontSize = "6.50";
+                        NSBaselineOffset = "-1";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 122;
+                    Name = "1Byte_\Uc601\Ubb38\Uc18c\Ubb38\Uc790";
+                    Start = 97;
+                    Type = 0;
+                },
+                                {
+                    CStyle =                     {
+                        Class = SMCharStyle;
+                        FontName = YDIYGO130;
+                        FontScale = "90.00";
+                        FontSize = "6.50";
+                        NSColor =                         {
+                            Alpha = "1.00";
+                            Black = "0.85";
+                            ColorSpaceName = NSDeviceCMYKColorSpace;
+                            Cyan = "0.00";
+                            Magenta = "0.00";
+                            Yellow = "0.00";
+                        };
+                        Plain = YES;
+                        TextColorShade = "1.00";
+                    };
+                    End = 255;
+                    Name = "1Byte_\Uc57d\Ubb3c";
+                    Start = 33;
+                    Type = 0;
+                }
+            );
+            Rank = 7;
+            Spacing = "110.00";
+            USN = <fffe6d00 6f006200 69006c00 6500>;
+            UserSpacing = "40.00";
+        }
+    );
+    Ver = 2001;
+}

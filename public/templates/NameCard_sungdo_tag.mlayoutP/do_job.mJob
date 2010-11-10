@@ -1,0 +1,15 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+      <key>WebRootPath</key>
+      <string>/Users/cholubin/development/layout_engine/public</string>
+    	<key>Action</key>
+    	<string>MakeContentsXML</string>
+    	<key>DocPath</key>
+    	<string>/Users/cholubin/development/layout_engine/public/templates/NameCard_sungdo_tag.mlayoutP</string>   
+     <key>ID</key>
+    	<string>71</string>     	
+    </dict>
+    </plist>
+    </xml>
