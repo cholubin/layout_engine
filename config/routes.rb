@@ -35,6 +35,7 @@ ActionController::Routing::Routes.draw do |map|
   map.request_mlayout '/request_mlayout' , :controller => "Cappuccino", :action => 'request_mlayout'  
   map.post_mlayout '/post_mlayout', :controller => "Cappuccino", :action => 'post_mlayout' #, :member => { :prepare => [:post] }
   map.publish '/publish/:id', :controller => "mytemplates", :action => "publish"
+  map.refresh '/refresh/:id', :controller => "mytemplates", :action => "refresh"
            
   map.connect ':controller/:action/:id'
   map.connect ':controller/:action/:id.:format'

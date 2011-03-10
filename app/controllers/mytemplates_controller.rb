@@ -103,6 +103,15 @@ class MytemplatesController < ApplicationController
     render 'mytemplate'
   end
 
+  def refresh
+      @mytemplate = Mytemplate.first(:file_filename => params[:id] + ".mlayoutP.zip", :user_id => current_user.id)
+      erase_job_done_file(@mytemplate)
+      refresh(@mytemplate)
+      close_document(@mytemplate)
+      erase_job_done_file(@mytemplate)
+      redirect_to :action => 'index'
+  end
+    
   def publish
     @mytemplate = Mytemplate.first(:file_filename => params[:id] + ".mlayoutP.zip", :user_id => current_user.id)   
     erase_job_done_file(@mytemplate)       
@@ -372,7 +381,10 @@ class MytemplatesController < ApplicationController
         new_temp_dir = new_temp_dir.force_encoding('UTF8-MAC')
       end
             
-      FileUtils.cp_r source_path, new_temp_dir  
+      FileUtils.cp_r source_path, new_temp_dir
+      
+      system "chmod -R 777 #{new_temp_dir}"
+      puts_message "new_temp_dir::" + new_temp_dir
       #--- delete template's mjob file     
       tmp = new_temp_dir + "/do_job.mjob"
       FileUtils.remove_entry_secure(tmp) if File.exist?(tmp)
